@@ -1,0 +1,330 @@
+[
+    {
+        "id": 1,
+        "title": "Margarita fácil",
+        "description": "A Margarita é um coquetel muito simples e popular, feito com tequila, suco de limão, licor de laranja (Cointreau) e sal.",
+        "nivel": "Fácil",
+        "total": "10 min",
+        "image": "guacamole.jpg",
+        "ingredientes": [
+            "200 ml (4 doses) de tequila",
+            "100 ml (2 doses) de Cointreau",
+            "240 ml de suco de limão",
+            "25ml (1/2 dose) de suco de laranja",
+            "1 fatia de limão",
+            "1 xícara de gelo",
+            "Sal"
+        ],
+        "preparo": [
+            "Em um coqueteleira coloque a tequila, o Cointreau, o suco de limão, o suco de laranja e o gelo picado e chacoalhe bem.",
+            "Em um pirex despeje o sal de forma uniforme.",
+            "Pegue uma taça, passe o limão na borda e logo em seguida encoste ela no pirex com sal, para fazer a clássica bordinha salgada.",
+            "Coloque uma meia fatia de limão na taça para decorar.",
+            "Coe a Margarita, despeje o conteúdo na taça e beba com moderação."
+        ],
+        "utensilios": [
+            "Pirex",
+            "Coqueteleira",
+            "Taça"
+        ],
+        "price": 30.00
+    },
+    {
+        "id": 2,
+        "title": "Mojito tradicional",
+        "description": "O mojito é uma bebida tradicional cubana que traz muito sabor e refrescância para os dias quentes, além de animar festas e encontros com os amigos.",
+        "nivel": "Fácil",
+        "total": "15 min",
+        "image": "bolo-de-banana.jpg",
+        "ingredientes": [
+            "50 ml de rum branco",
+            "25 ml de suco de limão",
+            "10 folhas de hortelã",
+            "1 colher de sopa rasa de açúcar",
+            "Água com gás a gosto",
+            "Gelo a gosto"
+        ],
+        "preparo": [
+            "Em um copo, adicione o suco de limão, o açúcar e misture para dissolver.",
+            "Com um pilão ou com as mãos, macere as folhas de hortelã, coloque no copo e misture.",
+            "Acrescente o rum e misture.",
+            "Coloque o gelo e complete com a água com gás.",
+            "Decore com folhas de hortelã e sirva! Bom apetite."
+        ],
+        "utensilios": [
+            "Pilão",
+            "Taça"
+        ],
+        "price": 47.80
+    },
+    {
+        "id": 3,
+        "title": "Manhattan",
+        "description": "Receita de Drink Manhattan.",
+        "nivel": "Fácil",
+        "total": "5 min",
+        "image": "cha-de-gingibre.jpg",
+        "ingredientes": [
+            "Cubos de gelo a gosto",
+            "4 gotas de curaçau (caso queira fazer a versão seca, não coloque esse ingrediente)",
+            "1/4 de dose de whisky",
+            "3/4 de dose de vermute"
+        ],
+        "preparo": [
+            "Na coqueteleira, coloque todos os ingredientes e bata.",
+            "Transfira o drink para um cálice e decore.",
+            "Agora é só servir."
+        ],
+        "utensilios": [
+            "Taça"
+        ],
+        "price": 25.00
+    },
+    {
+        "id": 4,
+        "title": "Sex on the beach",
+        "description": "Receita de Drink Sex on the beach.",
+        "nivel": "Fácil",
+        "total": "5 min",
+        "image": "chá-de-alho.jpg",
+        "ingredientes": [
+            "1 dose de vodka",
+            "1/2 dose de licor de pêssego",
+            "1 dose de suco de laranja",
+            "3 cubos de gelo",
+            "1/2 dose de xarope de groselha"
+        ],
+        "preparo": [
+            "Em uma coqueteleira, coloque a vodka, o licor, o suco de laranja e bata.",
+            "Adicione o gelo e misture.",
+            "Separe um copo de drink grande e despeje metade da groselha.",
+            "Transfira a mistura da coqueteleira para o copo e finalize com o restante da groselha.",
+            "Decore e sirva. Bom apetite."
+        ],
+        "utensilios": [
+            "Coqueteleira",
+            "Taça"       
+        ],
+        "price": 17.80
+    },
+    {
+        "id": 5,
+        "title": "Mimosa",
+        "description": "Receita de Drink Mimosa",
+        "nivel": "Fácil",
+        "total": "4 min",
+        "image": "ovo-no-microondas.jpg",
+        "ingredientes": [
+            "Uma parte de suco de laranja",
+            "Três partes de espumante",
+            "Alecrim para decorar (opcional)"
+        ],
+        "preparo": [
+            "Coloque todos os ingredientes em uma taça e misture delicadamente.",
+            "Decore com o alecrim.",
+            "Agora é só servir! Aproveite o seu drink."
+        ],
+        "utensilios": [
+            "Taça"
+        ],
+        "price": 12.00
+    },
+    {
+        "id": 6,
+        "title": "Bellini",
+        "description": "Receita de Drink Bellini",
+        "nivel": "Fácil",
+        "total": "5 min",
+        "image": "bolo-de-maca-sem-acucar.jpeg",
+        "ingredientes": [
+            "2 pêssegos maduros gelados",
+            "1/2 dose de licor de pêssego",
+            "Champanhe gelado o quanto bastar (ou prosecco)"
+        ],
+        "preparo": [
+            "Higienize os pêssegos, descasque-os, retire seus caroços e transfira para um liquidificador.",
+            "Adicione o licor e bata até misturar.",
+            "Despeje o líquido igualmente em 4 taças e complete elas com a champanhe.",
+            "Agora é só servir. Bom apetite."
+        ],
+        "utensilios": [
+            "Taça"
+        ],
+        "price": 22.80
+    },
+    {
+        "id": 7,
+        "title": "Dry martini",
+        "description": "Receita de Drink Dry Martini",
+        "nivel": "Fácil",
+        "total": "10 min",
+        "image": "bolo-de-aveia.webp",
+        "ingredientes": [
+            "Cubos de gelo a gosto",
+            "150 ml de gin",
+            "25 ml de vermute seco",
+            "Casquinha de limão-siciliano (para perfumar)",
+            "1 azeitona para decorar"
+        ],
+        "preparo": [
+            "Em um copo largo cheio de gelo, coloque o gin, o vermute e misture delicadamente com uma colher bailarina até ficar bem gelado.",
+            "Transfira para uma taça, mas sem os gelos.",
+            "Torça uma casca de limão-siciliano nas bordas da taça e decore com a azeitona.",
+            "Agora é só servir. Bom apetite."
+        ],
+        "utensilios": [
+            "Taça"
+        ],
+        "price": 15.20
+    },
+    {
+        "id": 8,
+        "title": "Daiquiri",
+        "description": "Receita de Drink Daiquiri",
+        "nivel": "Fácil",
+        "total": "10 min",
+        "image": "bolo-de-caneca.jpg",
+        "ingredientes": [
+            "60 ml de rum",
+            "30 ml de suco de limão taiti fresco",
+            "15 ml de xarope simples",
+            "Gelo a gosto",
+            "Rodelas de limão para decorar"
+        ],
+        "preparo": [
+            "Em uma coqueteleira, coloque todos os ingredientes e misture bem chacoalhando.",
+            "Coe a bebida e despeje em uma taça bem gelada.",
+            "Adicione algumas pedras de gelo e decore a taça com limão.",
+            "Agora é só servir."
+        ],
+        "utensilios": [
+            "Taça",
+            "Coqueteleira"
+        ],
+        "price": 20.00
+    },
+    {
+        "id": 9,
+        "title": "Cuba libre",
+        "description": "Receita de Drink Cuba Libre",
+        "nivel": "Fácil",
+        "total": "15 min",
+        "image": "cuzcuz-marroquino.jpg",
+        "ingredientes": [
+            "Gelo",
+            "1/2 limão",
+            "50 ml de rum",
+            "Coca-Cola a gosto"
+        ],
+        "preparo": [
+            "Em um copo, coloque o gelo, limão e o rum.",
+            "Complete com Coca-Cola até cerca de 2 dedos da borda.",
+            "Agora é só servir! Aproveite."
+        ],
+        "utensilios": [
+            "Taça",
+            "Coqueteleira"
+        ],
+        "price": 15.00
+    },
+    {
+        "id": 10,
+        "title": "Sangria",
+        "description": "A sangria surgiu na Espanha e, hoje, faz sucesso em todo lugar, levando sabor e felicidade. Aproveite!",
+        "nivel": "Fácil",
+        "total": "35 min",
+        "image": "pimenta-em-conserva.jpg",
+        "ingredientes": [
+            "1/2 maçã-verde",
+            "1/4 limão-siciliano",
+            "1/4 laranja-Bahia",
+            "150 ml de suco de laranja",
+            "50 ml de licor de laranja",
+            "1 canela em pau",
+            "1 garrafa de vinho tinto seco (750 ml)",
+            "Gelo a gosto",
+            "Água com gás",
+            "Hortelã a gosto"
+        ],
+        "preparo": [
+            "Reúna todos os ingredientes.",
+            "Corte a maçã-verde, o limão-siciliano e a laranja em meia-lua.",
+            "Em uma jarra grande, coloque as frutas cortadas, o suco e o licor de laranja, a canela e o vinho. Com o auxílio de uma colher longa, misture tudo muito bem",
+            "Em uma jarra grande, coloque as frutas cortadas, o suco e o licor de laranja, a canela e o vinho. Com o auxílio de uma colher longa, misture tudo muito bem",
+            "Leve a jarra à geladeira e deixe por cerca de 30 minutos",
+            "Passado o tempo, em um copo grande, coloque os gelos, algumas frutas da jarra e despeje o líquido. Para que a bebida não fique aguada, sempre adicione o gelo no copo e não na jarra",
+            "Finalize com um pouco de água com gás e folhas de hortelã. Aproveite!"
+        ],
+        "utensilios": [
+            "Jarra",
+            "Taça"
+        ],
+        "price": 29.99
+    },
+    {
+        "id": 11,
+        "title": "Ponche de frutas fácil",
+        "description": "Decore seu copo e aprecie seu Ponche com moderação. Um brinde à vida e boas festas!",
+        "nivel": "Fácil",
+        "total": "10 min",
+        "image": "pave-de-pacoca.jpg",
+        "ingredientes": [
+            "1/2 abacaxi",
+            "1 laranja",
+            "2 maçãs",
+            "2 kiwis",
+            "2 pêssegos em lata",
+            "1 cacho grande de uvas sem sementes",
+            "400 ml de vinho branco",
+            "200 ml de suco de laranja",
+            "200 ml de água mineral",
+            "200 ml de refrigerante de guaraná",
+            "1 garrafa de espumante",
+            "Gelo a gosto"
+        ],
+        "preparo": [
+           "Reúna todos os ingredientes",
+           "Lave bem as frutas e descasque o abacaxi e a laranja, incluindo a parte branca",
+           "Pique as frutas em pedaços médios. A uva deve ser cortada ao meio",
+           "Misture as frutas com o vinho, o suco de laranja, a água mineral, o refrigerante e por último o espumante. As bebidas devem estar todas geladas",
+           "Acrescente o gelo e misture delicadamente. Na sequência, sirva"
+        ],
+        "utensilios": [
+            "Taça"
+        ],
+        "price": 35.00
+    },
+    {
+        "id": 12,
+        "title": "Quentão de vinho simples",
+        "description": "Esse quentão de vinho pode ser preparado na hora de servir ou com antecedência. Quando aquecido, não perde nada em relação ao sabor!",
+        "nivel": "Fácil",
+        "total": "5 min",
+        "image": "brownie-de-chocolate-com-aveia.jpg",
+        "ingredientes": [
+            "1 xícara de chá de açúcar demerara",
+            "Casca de uma laranja",
+            "Casca de um limão",
+            "Gengibre picado a gosto",
+            "Canela em ramas a gosto",
+            "Cravos a gosto",
+            "1 xícara de chá de água",
+            "1,5 L de vinho tinto seco ou suave",
+            "1/2 xícara de chá de cachaça"
+        ],
+        "preparo": [
+            "Reúna todos os ingredientes",
+            "Em uma panela, coloque o açúcar, a casca de laranja, a casca de limão, o gengibre, a canela, o cravo e a água",
+            "Leve ao fogo baixo e mexa bem até o açúcar derreter",
+            "Adicione o vinho e a cachaça. Misture bem",
+            "Deixe ferver por cerca de 10 minutos, mexendo por vezes",
+            "Agora é só servir. Bom apetite!"
+        ],
+        "utensilios": [
+            "Panela",
+            "Taça",
+            "Forno"
+        ],
+        "price": 26.40
+    }
+]

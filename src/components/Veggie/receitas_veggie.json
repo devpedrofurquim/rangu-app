@@ -1,0 +1,320 @@
+[
+    {
+        "id": 1,
+        "title": "Guacamole com Maggi Meu Segredo",
+        "description": "Receita de Guacamole com Maggi Meu Segredo saboroso feito com abacate, tomate, cebola roxa e coentro com MAGGI MEU SEGREDO 7 Vegetais",
+        "nivel": "Fácil",
+        "total": "20 min",
+        "image": "guacamole.jpg",
+        "ingredientes": [
+            "1 abacate picado",
+            "1 cebola roxa picada",
+            "2 tomates sem sementes picados",
+            "1 stick de MAGGI® MEU SEGREDO® 7 Vegetais",
+            "2 colheres (sopa) de azeite",
+            "suco de 1 limão",
+            "meia pimenta dedo-de-moça, sem sementes, picada",
+            "2 colheres (sopa) de coentro picado",
+            "1 pacote de nachos (150 g)"
+        ],
+        "preparo": [
+            "Em um recipiente, misture bem todos os ingredientes. Sirva com os nachos."
+        ],
+        "utensilios": [
+            "Tigela",
+            "Colher"
+        ],
+        "price": 25.50
+    },
+    {
+        "id": 2,
+        "title": "Bolo de Banana com Aveia",
+        "description": "Receita de Bolo de Banana com Aveia saboroso e nutritivo feito com Farelo de Aveia NESTLÉ",
+        "nivel": "Fácil",
+        "total": "35 min",
+        "image": "bolo-de-banana.jpg",
+        "ingredientes": [
+            "2 ovos",
+            "2 colheres (sopa) de óleo",
+            "2 bananas-nanica maduras, amassadas",
+            "2 colheres (sopa) de nozes tostadas e picadas",
+            "4 colheres (sopa) de Farelo de Aveia NESTLÉ®",
+            "meia colher (sopa) de canela em pó",
+            "1 colher (sopa) de fermento em pó"
+        ],
+        "preparo": [
+            "Em um recipiente, bata os ovos com o óleo.",
+            "Acrescente as bananas e misture até ficar homogêneo. Adicione o restante dos ingredientes, deixando o fermento por último.",
+            "Em uma forma de furo central (19 cm de diâmetro) untada com óleo e polvilhada com farelo de aveia e canela em pó, despeje a massa e asse em forno médio (180°C), preaquecido, por cerca de 25 minutos."
+        ],
+        "utensilios": [
+            "Forma de Furo no Meio",
+            "Forno"
+        ],
+        "price": 37.80
+    },
+    {
+        "id": 3,
+        "title": "Chá de Gengibre com Limão e Mel",
+        "description": "Receita de Chá de Gengibre delicioso com Limão e Mel delicioso e quentinho feito com gengibre, mel e limão",
+        "nivel": "Fácil",
+        "total": "5 min",
+        "image": "cha-de-gingibre.jpg",
+        "ingredientes": [
+            "2 colheres (sopa) de raiz de gengibre ralada",
+            "2 colheres (sopa) de mel",
+            "2 fatias de limão",
+            "2 xícaras (chá) de água"
+        ],
+        "preparo": [
+            "Em uma panela, coloque o gengibre, o mel e o limão e aqueça brevemente.",
+            "Acrescente a água quente e ferva por cerca de 3 minutos. Sirva."
+        ],
+        "utensilios": [
+            "Panela"
+        ],
+        "price": 23.90
+    },
+    {
+        "id": 4,
+        "title": "Chá de Limão com Alho",
+        "description": "Receita de Chá de Limão com Alho delicioso e nutritivo feito com alho, limão e água",
+        "nivel": "Fácil",
+        "total": "5 min",
+        "image": "chá-de-alho.jpg",
+        "ingredientes": [
+            "1 limão",
+            "4 dentes de alho",
+            "meia xícara (chá) de água"
+        ],
+        "preparo": [
+            "Corte o limão em 4 partes.",
+            "Em uma panela coloque o limão, o alho e a água e leve ao fogo médio.",
+            "Assim que começar a ferver, cozinhe por cerca de 2 minutos.",
+            "Retire do fogo e amasse o limão. Coe e sirva."
+        ],
+        "utensilios": [
+            "Panela"        
+        ],
+        "price": 7.80
+    },
+    {
+        "id": 5,
+        "title": "Ovo no Micro-ondas",
+        "description": "Receita de Ovo no Micro-ondas fácil, rápido e prático feito com ovos, sal, pimenta-do-reino e orégano",
+        "nivel": "Fácil",
+        "total": "2 min",
+        "image": "ovo-no-microondas.jpg",
+        "ingredientes": [
+            "1 ovo",
+            "1 pitada de sal",
+            "1 pitada de pimenta-do-reino",
+            "1 pitada de orégano ou salsinha picada"
+        ],
+        "preparo": [
+            "Em um pires, quebre o ovo e tempere com o sal e a pimenta.",
+            "Cubra com outro pires e leve ao micro-ondas por 1 minuto. Confira o ponto de cozimento e se necessário, coloque mais 30 segundos. Sirva polvilhado com orégano."
+        ],
+        "utensilios": [
+            "Micro-ondas"
+        ],
+        "price": 10.50
+    },
+    {
+        "id": 6,
+        "title": "Bolo De Maçã Sem Açúcar",
+        "description": "Bolo de maçã sem açúcar com Aveia Flocos Finos NESTLÉ",
+        "nivel": "Fácil",
+        "total": "45 min",
+        "image": "bolo-de-maca-sem-acucar.jpeg",
+        "ingredientes": [
+            "2 maçãs sem casca, picadas",
+            "1 banana-nanica madura",
+            "2 ovos",
+            "1 xícara (chá) de Aveia Flocos Finos NESTLÉ®",
+            "meia xícara (chá) de farinha de trigo",
+            "1 colher (sopa) de canela em pó",
+            "1 colher (sopa) de fermento em pó",
+            "1 maçã com casca em fatias finas (Para decorar)",
+            "1 colher (chá) de canela em pó (Para decorar)"
+        ],
+        "preparo": [
+            "Em um liquidificador, bata as maçãs, a banana e os ovos.",
+            "Em um recipiente, despeje a massa e acrescente o restante dos ingredientes. Misture até ficar homogêneo.",
+            "Em uma forma quadrada (21 x 21 cm), untada com óleo e polvilhada com farinha de trigo, despeje a massa e decore com as fatias de maçãs.",
+            "Leve para assar em forno médio (180°C), preaquecido, por cerca de 30 minutos. Polvilhe a canela e sirva."
+        ],
+        "utensilios": [
+            "Forno",
+            "Refratário",
+            "Liquidificador"
+        ],
+        "price": 32.80
+    },
+    {
+        "id": 7,
+        "title": "Bolo de Maçã, Aveia e Canela",
+        "description": "Receita de Bolo de Maçã Aveia e Canela deliciosa feita com Aveia em Flocos Orgânica NESTLÉ",
+        "nivel": "Fácil",
+        "total": "40 min",
+        "image": "bolo-de-aveia.webp",
+        "ingredientes": [
+            "3 maçãs",
+            "3 ovos",
+            "2 e meia xícaras (chá) de Aveia Flocos Orgânica NESTLÉ®",
+            "3 colheres (sopa) de óleo de coco",
+            "1 colher (sopa) de fermento em pó",
+            "1 pitada de canela em pó para polvilhar"
+        ],
+        "preparo": [
+            "Corte duas maçãs em cubos grandes e uma em fatias. Retire as sementes. Reserve.",
+            "Em um liquidificador bata os ovos, a Aveia NESTLÉ, o óleo de coco, a maçã em cubos grandes, e o fermento.",
+            "Transfira para uma forma de bolo inglês (17 x 6 x 12 cm) untada com óleo de coco.",
+            "Distribua a maçã fatiada por cima e leve ao forno médio (180ºC), preaquecido, por cerca de 30 minutos.",
+            "Retire do forno e espere esfriar para desenformar. Polvilhe a canela em pó e sirva."
+        ],
+        "utensilios": [
+            "Forno"
+        ],
+        "price": 45.20
+    },
+    {
+        "id": 8,
+        "title": "Bolinho de Aveia de Caneca",
+        "description": "Receita de Bolinho de Aveia de Caneca deliciosa feita com ovo, banana, fermento em pó e NATURNES Aveia Orgânica",
+        "nivel": "Fácil",
+        "total": "10 min",
+        "image": "bolo-de-caneca.jpg",
+        "ingredientes": [
+            "1 banana madura amassada",
+            "3 colheres (sopa) de NATURNES® Aveia Orgânica",
+            "1 ovo pequeno",
+            "1 colher (chá) de fermento em pó"
+        ],
+        "preparo": [
+            "Em um recipiente, misture todos os ingredientes até obter uma mistura homogênea. Distribua em 2 canecas.",
+            "Leve as canecas ao micro-ondas, em potência alta por cerca de 3 minutos. Sirva."
+        ],
+        "utensilios": [
+            "Caneca",
+            "Micro-ondas"
+        ],
+        "price": 15.80
+    },
+    {
+        "id": 9,
+        "title": "Cuscuz Marroquino",
+        "description": "Receita de Cuscuz Marroquino com Amêndoas e Uvas-Passas delicioso, feito com amêndoas, uvas-passas e temperado com MAGGI MEU SEGREDO 7 Vegetais",
+        "nivel": "Fácil",
+        "total": "15 min",
+        "image": "cuzcuz-marroquino.jpg",
+        "ingredientes": [
+            "1 xícara (chá) de cuscuz marroquino",
+            "1 xícara (chá) de água fervente",
+            "2 colheres (sopa) de azeite",
+            "1 cebola roxa picada",
+            "1 tomate, sem sementes, picado",
+            "suco de 1 limão",
+            "4 colheres (sopa) de pimenta-biquinho picada",
+            "1 stick de MAGGI® MEU SEGREDO® 7 Vegetais",
+            "3 colheres (sopa) de amêndoas em lascas",
+            "3 colheres (sopa) de uvas-passas",
+            "2 colheres (sopa) de cheiro-verde picado"
+        ],
+        "preparo": [
+            "Em um recipiente, coloque o cuscuz e acrescente a água fervente.",
+            "Misture, cubra com um plástico-filme e reserve por cerca de 5 minutos ou até que toda a água tenha sido absorvida e o cuscuz esteja macio.",
+            "Acrescente os demais ingredientes e misture bem.",
+            "Sirva a seguir."
+        ],
+        "utensilios": [
+            "Panela",
+            "Forma de Furo no Meio"
+        ],
+        "price": 45.00
+    },
+    {
+        "id": 10,
+        "title": "Pimenta em Conserva",
+        "description": "Receita de Pimenta em Conserva deliciosa feita com pimenta-dedo-de-moça, alecrim, louro, alho e azeite",
+        "nivel": "Fácil",
+        "total": "10 min",
+        "image": "pimenta-em-conserva.jpg",
+        "ingredientes": [
+            "10 pimentas dedo-de-moça cortadas ao meio",
+            "2 ramos de alecrim",
+            "3 folhas de louro",
+            "meia colher (chá) de pimenta-do-reino em grãos",
+            "3 dentes de alho",
+            "1 xícara (chá) de óleo ou azeite"
+        ],
+        "preparo": [
+            "Em uma panela com água quente, coloque as pimentas por cerca de 1 minuto.",
+            "Retire e passe-as em água fria com gelo, por cerca de 1 minuto. Seque bem as pimentas.",
+            "Em um pote de vidro esterilizado, coloque todos os ingredientes. Tampe e reserve por 15 dias em local seco e fresco, fora da geladeira, antes de abrir."
+        ],
+        "utensilios": [
+            "Panela"
+        ],
+        "price": 19.90
+    },
+    {
+        "id": 11,
+        "title": "Pavê de Paçoca com Chocolate",
+        "description": "Receita de Pavê de Paçoca com Chocolate delicioso feito com NATURE’S HEART Bebida Vegetal Aveia, MOÇA Origem Vegetal e Biscoito SÃO LUIZ Coco",
+        "nivel": "Fácil",
+        "total": "45 min",
+        "image": "pave-de-pacoca.jpg",
+        "ingredientes": [
+            "1 caixinha de MOÇA® Origem Vegetal",
+            "2 xicaras (chá) de NATURE’S HEART® Bebida Vegetal Aveia",
+            "4 colheres (sopa) de amido de milho",
+            "meia colher (chá) de essência de baunilha",
+            "4 colheres (sopa) de açúcar demerara",
+            "3 paçocas esfareladas",
+            "2 colheres (sopa) de Cacau em Pó 70% NESTLÉ® DOIS FRADES®",
+            "2 pacotes de Biscoito SÃO LUIZ® Coco",
+            "meia xícara (chá) de NATURE’S HEART® Bebida Vegetal Aveia",
+            "2 paçocas para decorar"
+        ],
+        "preparo": [
+           "Em uma panela, junte o MOÇA Origem Vegetal, o NATURE’S HEART Bebida Vegetal Aveia, o amido de milho, a essência de baunilha e o açúcar demerara. Misture bem e leve ao fogo médio, mexendo sempre.",
+           "Quando o creme começar a ferver, continue mexendo por mais 5 minutos.",
+           "Em dois recipientes, divida o creme em duas partes iguais. Em uma parte misture as 3 paçocas esfareladas e na outra parte junte o Chocolate em Pó 70% NESTLÉ DOIS FRADES e misture bem. Reserve.",
+           "Em um refratário, coloque uma camada do creme de chocolate, molhe o Biscoito SÃO LUIZ de Coco no NATURE’S HEART Bebida Vegetal Aveia e cubra com uma camada, repita com uma camada do creme de paçoca e outra camada de biscoitos até finalizar os cremes.",
+           "Finalize a receita polvilhando paçoca no topo. Cubra com plástico filme e deixe na geladeira por 2 horas antes de servir."
+        ],
+        "utensilios": [
+            "Forno",
+            "Geladeira",
+            "Tigela",
+            "Colher",
+            "Molde de Baviera",
+            "Molde Retangular"
+        ],
+        "price": 34.90
+    },
+    {
+        "id": 12,
+        "title": "Brownie de Chocolate com Aveia",
+        "description": "Receita de Brownie Rápido de Chocolate com Aveia delicioso feito com Farelo de Aveia NESTLÉ, Cacau em Pó NATURE´S HEART e água",
+        "nivel": "Fácil",
+        "total": "5 min",
+        "image": "brownie-de-chocolate-com-aveia.jpg",
+        "ingredientes": [
+            "3 colheres (sopa) de Farelo de Aveia NESTLÉ®",
+            "2 colheres (sopa) de Cacau em Pó NATURE´S HEART®",
+            "150ml de água"
+        ],
+        "preparo": [
+            "Em um bowl, misture os todos os ingredientes na ordem apresentada acima.",
+            "Polvilhe chocolate uma forma retangular pequena e adicione a massa acima. Leve ao micro-ondas por cerca de 2 min e 30 segundos"
+        ],
+        "utensilios": [
+            "Tigela",
+            "Batedor",
+            "Micro-ondas"
+        ],
+        "price": 25.90
+    }
+]

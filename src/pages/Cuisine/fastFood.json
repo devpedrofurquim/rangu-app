@@ -1,0 +1,427 @@
+[
+    {
+        "id": 1,
+        "title": "Batata frita com queijo e bacon",
+        "description": "Receita de batata frita com queijo e bacon",
+        "nivel": "Fácil",
+        "total": "10 min",
+        "image": "guacamole.jpg",
+        "ingredientes": [
+            "1 saco de 400 g de batata frita congelada",
+            "100 g de queijo mussarela",
+            "200 g de bacon picado em cubinhos"
+        ],
+        "preparo": [
+            "Frite as batatas como de costume.",
+            "Em uma panela com óleo, frite os cubinhos de bacon até ficarem crocantes.",
+            "Derreta o queijo em um refratário no microondas.",
+            "Misture o bacon e o queijo.",
+            "Coloque por cima das batatas já fritas.",
+            "Leve ao forno em temperatura baixa por 5 minutos."
+        ],
+        "utensilios": [
+            "Panela",
+            "Forno"
+        ],
+        "price": 20.00
+    },
+    {
+        "id": 2,
+        "title": "Hambúrguer caseiro simples",
+        "description": "O hambúrguer caseiro é uma opção deliciosa para a hora do lanche, que oferece uma maneira divertida e criativa de saborear um dos pratos mais populares do mundo.",
+        "nivel": "Fácil",
+        "total": "35 min",
+        "image": "bolo-de-banana.jpg",
+        "ingredientes": [
+            "3 kg de carne moída (escolha uma carne magra e macia)",
+            "1 ovo",
+            "30 ml de água gelada",
+            "300 g de bacon moído",
+            "3 colheres (sopa) de farinha de trigo",
+            "3 colheres (sopa) de tempero caseiro feito com alho, sal, cebola, pimenta e cheiro-verde processados no liquidificador"
+        ],
+        "preparo": [
+            "Misture todos os ingredientes muito bem e amasse para que fique tudo muito bem misturado.",
+            "Faça porções de 90 g a 100 g.",
+            "Forre um plástico molhado em uma bancada e modele os hambúrgueres utilizando um aro como base.",
+            "Faça um de cada vez e retire o aro logo em seguida.",
+            "Forre uma assadeira de metal com plástico, coloque os hambúrgueres e intercale camadas de carne e plásticos (sem apertar).",
+            "Faça no máximo 4 camadas por forma e leve para congelar.",
+            "Retire do congelador, frite ou asse e está pronto."
+        ],
+        "utensilios": [
+            "Assadeira de Metal"
+        ],
+        "price": 37.90
+    },
+    {
+        "id": 3,
+        "title": "Tacos mexicanos",
+        "description": "Receita de Tacos Mexicanos",
+        "nivel": "Fácil",
+        "total": "20 min",
+        "image": "cha-de-gingibre.jpg",
+        "ingredientes": [
+            "1 Pacote RAP 10 Pullman",
+            "400 g queijo mussarela ralado",
+            "400 g Presunto ralado",
+            "2 unidades de calabresa defumada ralada",
+            "400 g de queijo mussarela ralado",
+            "400 g de queijo mussarela ralado",
+            "1 lata de atum ralado",
+            "400 g queijo mussarela ralado",
+            "1 peito de frango desfiado",
+            "Caturipy ao gosto",
+            "1 unidade de pimentão vermelho cortado um tirinhas",
+            "1 unidade de pimentão amarelo cortado um tirinhas",
+            "1 unidade de pimentão verde cortado um tirinhas",
+            "Azeitonas em caroço em fatias (Quantidade ao gosto)",
+            "1 unidade de tomate cortado em cubinhos sem semente",
+            "Sal a gosto",
+            "Pimenta a gosto"
+        ],
+        "preparo": [
+            "Junte os pimentões, a azeitona e o tomate e faça uma salada.",
+            "Coloque sal a gosto e leve ao micro-ondas por mais ou menos 2 minutos até que a salada fique morna e a reserve.",
+            "Em uma frigideira coloque uma massa RAP 10 Pullman e deixe tostar um pouco vire a massa para tostar o outro lado.",
+            "Coloque na metade da massa um pouco do recheio de sua preferência (atum, calabresa, presunto, queijo, frango).",
+            "Em seguida coloque um pouco da salada, coloque umas gotinhas de pimenta se for ao seu gosto. Feche o taco com a outra metade da massa. Vai virando o taco para o recheio esquentar, o queijo derreter e a massa não queimar.",
+            "Após o recheio estar quente e o queijo derretido, só coloque num prato e se delicie com um belo taco."
+        ],
+        "utensilios": [
+            "Frigideira"
+        ],
+        "price": 35.00
+    },
+    {
+        "id": 4,
+        "title": "Frango frito americano",
+        "description": "Receita de Frango Frito Americano",
+        "nivel": "Fácil",
+        "total": "35 min",
+        "image": "chá-de-alho.jpg",
+        "ingredientes": [
+            "6 coxas e 6 sobrecoxas de frango (pode ser 1 kg de frango cortado à passarinho, ou pedaços de peito, como preferir)",
+            "Suco de 2 limões",
+            "Pimenta a gosto",
+            "1 ovo",
+            "1 xícara de água",
+            "3 dentes de alho",
+            "Sal a gosto",
+            "Azeite de oliva",
+            "1 xícara de leite",
+            "Farinha de trigo"
+        ],
+        "preparo": [
+            "Limpe bem os pedaços do frango.",
+            "Tempere a carne com o alho, o suco de limão, 1 pitada de sal e 1 pitada de pimenta, deixe a carne marinando por 30 minutos.",
+            "Misture o leite, a água e o ovo em uma bacia.",
+            "É essa mistura que vai garantir o crocante da casca e a carne sequinha e tenra.",
+            "Coloque o frango na bacia para \"nadar\" na mistura.",
+            "Depois de passar a carne pela mistura, vamos empanar.",
+            "Para empanar o frango, coloque a farinha em um saco plástico, com mais uma pitada de sal e pimenta.",
+            "Pode experimentar para sentir se está bom.",
+            "Depois coloque os pedaços de frango no saco plástico e mexa bem, para que a farinha \"agarre\" no frango.",
+            "Coloque bastante óleo em uma panela.",
+            "Pode ser óleo de soja, girassol, banha ou canola.",
+            "Com óleo de soja fica muito bom.",
+            "Quando o óleo estiver bem quente, mergulhe algumas partes do frango.",
+            "A carne precisa ficar bioando na gordura, por isso precisa bastante óleo na panela.",
+            "Deixe o frango fritar por uns 5 minutos, mexa e vire.",
+            "Quando o frango estiver bom, ele bóia.",
+            "Escorrer e servir. Fica uma delícia."
+        ],
+        "utensilios": [
+            "Panela"     
+        ],
+        "price": 27.80
+    },
+    {
+        "id": 5,
+        "title": "Pizza de liquidificador fácil",
+        "description": "Receita de Pizza de Liquidificador",
+        "nivel": "Fácil",
+        "total": "30 min",
+        "image": "ovo-no-microondas.jpg",
+        "ingredientes": [
+            "1 xícara (chá) de leite",
+            "1 colher (chá) de sal",
+            "1 colher (sopa) de margarina",
+            "1 colher (sobremesa) de fermento em pó",
+            "1 ovo",
+            "1 colher (chá) de açúcar",
+            "1 e 1/2 xícara (chá) de farinha de trigo",
+            "1/2 lata de molho de tomate",
+            "250 g de mussarela ralada grossa",
+            "azeitona picada",
+            "2 tomates fatiados",
+            "orégano a gosto"
+        ],
+        "preparo": [
+            "No liquidificador bata o leite, o ovo, o sal, o açúcar, a margarina, a farinha de trigo e o fermento em pó até que tudo esteja encorporado.",
+            "Despeje a massa em uma assadeira para pizza untada com margarina e leve ao forno preaquecido por 20 minutos.",
+            "Retire do forno e despeje o molho de tomate.",
+            "Cubra a massa com mussarela ralada, tomate e orégano a gosto.",
+            "Leve novamente ao forno até derreter a mussarela."
+        ],
+        "utensilios": [
+            "Liquidificador",
+            "Frigideira",
+            "Forno"
+        ],
+        "price": 25.00
+    },
+    {
+        "id": 6,
+        "title": "Cebola empanada",
+        "description": "Receita de Cebola empanada, estilo Burger king",
+        "nivel": "Fácil",
+        "total": "35 min",
+        "image": "bolo-de-maca-sem-acucar.jpeg",
+        "ingredientes": [
+            "1 cebola média",
+            "2 xícaras de farinha de rosca",
+            "sal e tempero a gosto",
+            "1 xícara de farinha de trigo",
+            "300 ml de leite",
+            "óleo para fritar"
+        ],
+        "preparo": [
+            "Descasque a cebola.",
+            "Corte tem tiras(anéis), com um pouco menos de 1 cm de espessura.",
+            "Deixar de molho os anéis na água, por pelo menos 1 hora, para tirar a acidez da cebola.",
+            "Coloque sal e tempero a gosto na farinha de rosca.",
+            "Primeiro passe a cebola no leite.",
+            "Depois na farinha de trigo.",
+            "Depois no leite.",
+            "Depois na farinha de rosca.",
+            "Depois no leite novamente.",
+            "E por final passe na farinha de rosca.",
+            "Esquente bem o óleo e frite."
+        ],
+        "utensilios": [
+            "Frigideira"
+        ],
+        "price": 24.50
+    },
+    {
+        "id": 7,
+        "title": "Hambúrguer de doritos com queijo",
+        "description": "Receita de Drink Dry Martini",
+        "nivel": "Fácil",
+        "total": "30 min",
+        "image": "bolo-de-aveia.webp",
+        "ingredientes": [
+            "450 g de carne moída",
+            "1 ovo",
+            "1 colher (sopa) de mostarda amarela",
+            "1 + 1/2 colher (chá) de sal",
+            "1/4 de colher (chá) de pimenta caiena",
+            "1 + 1/2 colher (chá) de pimenta-do-reino",
+            "60 g de queijo mussarela",
+            "1 + 1/2 xícara de doritos",
+            "500 ml de óleo (para fritar)"
+        ],
+        "preparo": [
+            "Em uma tigela, misture a carne moída com a mostarda, o sal, a pimenta caiena e a pimenta-do-reino.",
+            "Triture o doritos e reserve.",
+            "Molde os hambúrgueres, recheando com cubos de mussarela.",
+            "Passe os hambúrgueres no doritos triturados.",
+            "Frite em óleo quente e está pronto!"
+        ],
+        "utensilios": [
+            "Frigideira"
+        ],
+        "price": 15.20
+    },
+    {
+        "id": 8,
+        "title": "Burrito",
+        "description": "Receita de Burrito Rápido e Fácil",
+        "nivel": "Fácil",
+        "total": "50 min",
+        "image": "bolo-de-caneca.jpg",
+        "ingredientes": [
+            "350 g de bacon picado",
+            "1 cebola picada",
+            "1 kg de carne moída (carne de sua preferência)",
+            "300 g de feijão ou se já tiver feijão na geladeira pode usar",
+            "cheddar a gosto",
+            "doritos",
+            "pimenta a gosto",
+            "1/2 copo de leite",
+            "1 pacote de “tortilla” (rap10)"
+        ],
+        "preparo": [
+            "Frite o bacon, retire da panela e reserve.",
+            "Doure a cebola na gordura do bacon.",
+            "Frite a carne.",
+            "Misture o feijão.",
+            "Acrescente a pimenta.",
+            "Coloque o Doritos em um prato e amasse ele até virar uma farofa, e acrescente na carne moída, e mexa bem até virar uma pasta.",
+            "Derreta o queijo cheddar em uma panela junto com o leite, até virar um creme pastoso.",
+            "Depois coloque a mistura de carne no centro da tortilla e por cima coloque o cheddar e o bacon, enrole a tortilla e é só comer, bom apetite!"
+        ],
+        "utensilios": [
+            "Frigideira",
+            "Panela"
+        ],
+        "price": 40.00
+    },
+    {
+        "id": 9,
+        "title": "Cachorro-quente com batata palha caseira",
+        "description": "Receita de Cachorro-quente com batata palha caseira",
+        "nivel": "Fácil",
+        "total": "30 min",
+        "image": "cuzcuz-marroquino.jpg",
+        "ingredientes": [
+            "1 fio de óleo",
+            "2 cebolas picadas",
+            "3 dentes picados de alho",
+            "salsinha a gosto",
+            "4 xícaras de molho de tomate",
+            "1 pacote de salsinhas (500 g)",
+            "pimenta-do-reino a gosto",
+            "sal a gosto",
+            "4 batatas descascadas",
+            "óleo quente",
+            "pão de cachorro-quente"
+        ],
+        "preparo": [
+            "Em uma panela, aqueça 1 fio de óleo e acrescente a cebola picada, o alho picado, a salsinha e o molho de tomate.",
+            "Misture tudo e acrescente as salsichas, pimenta-do-reino e sal a gosto.",
+            "Deixe cozinhar por cerca de 12 minutos.",
+            "Descasque as 4 batatas e passe-as no ralador grosso.",
+            "Com uma escumadeira, pegue as batatas raladas e coloque-as em uma panela com óleo quente.",
+            "Frite até dourar.",
+            "Retire e deixe esfriar e secar em um recipiente com papel-toalha.",
+            "Corte os pães de cachorro-quente e acrescente o molho com a salsicha.",
+            "Adicione ketchup, maionese ou mostarda (opcional).",
+            "Por cima, adicione a batata palha."
+        ],
+        "utensilios": [
+            "Panela",
+            "Frigideira"
+        ],
+        "price": 25.00
+    },
+    {
+        "id": 10,
+        "title": "Nuggets Caseiro de Frango",
+        "description": "Receita de Nuggets Caseiro de Frango",
+        "nivel": "Fácil",
+        "total": "1h 35min",
+        "image": "pimenta-em-conserva.jpg",
+        "ingredientes": [
+            "600 g de filé de frango",
+            "1 cebola média",
+            "2 dentes de alho",
+            "½ xícara de salsinha picada",
+            "½ xícara de requeijão cremoso",
+            "2 ovos",
+            "60 g (2 colheres de sopa cheias) de creme de leite fresco",
+            "1 pacote (5 g) de caldo em pó sabor legumes (tipo “Sazón”)",
+            "Sal e pimenta-do-reino a gosto"
+        ],
+        "preparo": [
+            "Corte 200 g do filé de frango em pedaços muito pequenos e reserve. No processador, coloque o restante do filé de frango e os demais ingredientes, exceto o creme de leite e processe. Em uma bacia, agregue o frango em pedaços e o creme de leite a esta massa. Divida esta massa em três e coloque cada porção em filme plástico, formando tubos de, mais ou menos 6 cm de diâmetro. Envolva bem com o filme plástico (5 ou 6 voltas). É necessário enrolar bem as pontas para que a massa fique compacta e para que os tubos não se abram.",
+            "Coloque-os em uma panela grande com água fervente e deixe cozinhar por 15 minutos, virando-os na metade do tempo. Retire e deixe esfriar. Remova o plástico e corte em fatias de 1 ½ cm. Passe-os na farinha de trigo, nos ovos e, por último, no fubá. Frite-os em óleo quente até que dourem e escorra em papel toalha."
+        ],
+        "utensilios": [
+            "Panela",
+            "Forno"
+        ],
+        "price": 29.99
+    },
+    {
+        "id": 11,
+        "title": "Nachos mexicanos",
+        "description": "Receita de Nachos mexicanos",
+        "nivel": "Fácil",
+        "total": "40 min",
+        "image": "pave-de-pacoca.jpg",
+        "ingredientes": [
+            "1 kg de carne moída",
+            "5 colheres de sopa de óleo",
+            "1 cebola grande ralada",
+            "5 dentes de alho amassados",
+            "2 pacotes de Doritos (grande)",
+            "200 g de queijo cheddar (aquele de bisnaga)",
+            "1 colher e 1/2 de sopa bem cheias de pimenta chilli",
+            "3 colheres de sopa de molho inglês",
+            "Sal e temperos como ervas finas, manjerona e outros, a gosto",
+            "1 caixinha de creme de leite (o de caixinha é menos consistente, por isso é melhor)",
+            "1 pote de cream cheese",
+            "2 colheres de sopa de vinagre branco",
+            "Suco de 1/2 limão"
+        ],
+        "preparo": [
+           "Para o preparo do sour cream, bata no liquidificar o creme de leite, o cream cheese, o vinagre e o limão.",
+           "Reserve.",
+           "Coloque numa panela o óleo a cebola e o alho e doure, em seguida acrescente a carne moída e frite bem.",
+           "Então coloque os temperos do seu gosto, o sal, o molho inglês e a pimenta chilli.",
+           "Depois de preparada a carne, forre uma travessa com o doritos, coloque a carne por cima, depois o sour cream e por último o queijo cheddar.",
+           "Coloque no forno por cerca de 15 minutos numa temperatura de cerca de 180º graus.",
+           "Está pronto.",
+           "É uma comida apimentada, deliciosa! Não esqueça, o segredo da receita é a pimenta chilli, que é uma iguaria mexicana."
+        ],
+        "utensilios": [
+            "Frigideira",
+            "Panela"
+        ],
+        "price": 35.00
+    },
+    {
+        "id": 12,
+        "title": "Esfiha aberta",
+        "description": "Receita de Esfiha aberta tipo Habib's",
+        "nivel": "Fácil",
+        "total": "1h",
+        "image": "brownie-de-chocolate-com-aveia.jpg",
+        "ingredientes": [
+            "1 kg de farinha de trigo",
+            "30 g de fermento biológico seco",
+            "3/4 xícara (chá) de açúcar refinado (125 g)",
+            "125 ml de óleo de soja",
+            "500 a 700ml de água morna",
+            "1 colher de (sopa) sal refinado",
+            "fubá para polvilhar",
+            "700g de queijo branco amassado",
+            "1 xícara de salsinha picada",
+            "1 xícara de cebolinha picada",
+            "6 colheres (sopa) de creme de leite",
+            "1 colher de (chá) fermento em pó (serve para dar consistência e uniformizar o recheio)",
+            "sal a gosto",
+            "700g de carne moída",
+            "5 tomates picados",
+            "1 cebola picada",
+            "1/2 xícara (chá) de hortelã",
+            "suco de 2 limões",
+            "sal a gosto",
+            "pimenta a gosto"
+        ],
+        "preparo": [
+            "Junte todos os ingredientes do recheio escolhido.",
+            "Misture bem, amassando com as mãos e reserve.",
+            "Misture 500 ml de água (reserve o restante) com o fermento e o açúcar e deixe descansar por 10 minutos.",
+            "Junte a farinha (separe uma pequena parte), o óleo e o sal.",
+            "Misture com uma colher de pau.",
+            "A seguir, despeje e sove a massa sobre uma superfície enfarinhada.",
+            "Acrescente o restante da farinha alternado com a água aos poucos até que a massa fique com aparência homogênea e desgrude das mãos.",
+            "Deixe descansar por 10 minutos.",
+            "Após descansar, divida a massa em 2 partes iguais e faça um rolo grosso com cada uma delas.",
+            "Tome como medida três dedos e corte toda a massa em pedaços iguais.",
+            "A seguir, faça bolinhas usando o fubá para polvilhar e dar formato a massa. Utilizando os dedos, achate cada bola fazendo laterais altas (como um ninho).",
+            "Acomode os discos na forma polvilhada com fubá e deixe descansar por 15 minutos.",
+            "Coloque uma pequena porção de recheio sobre cada disquinho de esfiha. Espalhe o recheio por igual e asse em forno pré-aquecido a 180º.",
+            "Sirva quente ou fria."
+        ],
+        "utensilios": [
+            "Panela",
+            "Forno",
+            "Frigideira"
+        ],
+        "price": 46.50
+    }
+]

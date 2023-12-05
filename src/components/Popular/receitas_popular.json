@@ -1,0 +1,385 @@
+[
+    {
+        "id": 1,
+        "title": "Pastel de Forno Bem Brasileiro",
+        "description": "Receita de Pastel de Forno Bem Brasileiro feita com massa pronta, carne moída, ovos e MAGGI Caldo Picanha",
+        "nivel": "Fácil",
+        "total": "50min",
+        "image": "pastel-de-forno.jpeg",
+        "ingredientes": [
+            "1 colher (sopa) de óleo",
+            "1 dente de alho picado",
+            "1 cebola média picada",
+            "300 g de carne moída",
+            "1 tablete de MAGGI® Caldo Picanha",
+            "2 tomates sem sementes e picados",
+            "2 colheres (sopa) de salsa picada",
+            "3 colheres (sopa) de azeitonas verdes picadas",
+            "meia colher (sopa) de farinha de trigo",
+            "2 ovos cozidos e picados",
+            "1 pacote de massa pronta para pastel",
+            "1 gema para pincelar",
+            "1 colher (sopa) de azeite"
+        ],
+        "preparo": [
+            "Em uma panela média, aqueça o óleo refogue o alho e a cebola.",
+            "Junte a carne e refogue até que seque todo o líquido.",
+            "Acrescente o Caldo MAGGI Caldo esfarelado e os tomates e refogue por cerca de 10 minutos.",
+            "Junte a salsa, as azeitonas e polvilhe a farinha de trigo.",
+            "Misture bem e deixe cozinhar por cerca de 2 minutos, até formar um recheio cremoso.",
+            "Acrescente os ovos, misture delicadamente e reserve.",
+            "Abra a massa do pastel sobre uma superfície e corte 20 discos de 15cm de diâmetro.",
+            "No centro de cada disco coloque uma porção do recheio reservado (já frio), feche bem as bordas, pressionando com um garfo.",
+            "Pincele com a gema levemente batida e misturada com o azeite e leve para assar em forno médio-alto (200°C), preaquecido, por cerca de 30 minutos, ou até que esteja dourado e sequinho.Sirva a seguir."
+        ],
+        "utensilios": [
+            "Forno",
+            "Panela"
+        ],
+        "price": 45.50
+    },
+    {
+        "id": 2,
+        "title": "Acarajé de Milho Verde",
+        "description": "Receita de Acarajé de Milho Verde saboroso feito com milho, azeite de dendê, camarão, Leite Líquido NINHO Forti+ Integral e MAGGI Fondor",
+        "nivel": "Fácil",
+        "total": "80min",
+        "image": "acaraje.jpg",
+        "ingredientes": [
+            "8 espigas médias de milho-verde, raladas",
+            "8 colheres (sopa) de Leite Líquido NINHO® Forti+ Integral",
+            "1 e meia colher (sopa) de MAGGI® Fondor",
+            "2 ovos",
+            "2 colheres (sopa) de coentro picado",
+            "1 colher (sopa) de cebola ralada",
+            "10 colheres (sopa) de farinha de trigo",
+            "2 colheres (chá) de fermento em pó",
+            "1 litro de azeite de dendê ou óleo, para fritar",
+            "500 g de camarão pequeno limpo",
+            "1 colher (sopa) de MAGGI® Fondor",
+            "suco de meio limão",
+            "2 colheres (sopa) de azeite",
+            "1 dente de alho amassado",
+            "meia cebola picada",
+            "1 tomate grande, sem pele e sem sementes",
+            "4 colheres (sopa) de coentro picado",
+            "1 colher (sopa) de farinha de trigo",
+            "1 colher (sopa) de azeite de dendê"
+        ],
+        "preparo": [
+            "Em um recipiente, misture o milho-verde, o Leite NINHO, o MAGGI Fondor, os ovos, o coentro, a cebola, a farinha de trigo e o fermento, até ficar homogêneo.",
+            "Modele porções dessa massa com o auxílio de 2 colheres e frite-as no azeite-de-dendê ou óleo bem quente.",
+            "Escorra em papel toalha e reserve mantendo os acarajés aquecidos.",
+            "Em um recipiente, tempere os camarões com o MAGGI Fondor e o limão e deixe tomar gosto por cerca de 15 minutos, em geladeira.",
+            "Em uma panela, aqueça o azeite e doure o alho e a cebola.",
+            "Junte o camarão, o tomate e o coentro.",
+            "Dissolva a farinha em um pouco de água e coloque no refogado.",
+            "Junte o azeite-de-dendê, mexa bem e retire do fogo.",
+            "Corte os acarajés ao meio e recheie-os com o camarão. Sirva-os bem quentes."
+        ],
+        "utensilios": [
+            "Panela",
+            "Geladeira"
+        ],
+        "price": 35.80
+    },
+    {
+        "id": 3,
+        "title": "Coxinha",
+        "description": "Receita de Coxinha, salgado delicioso feito com massa de batatas e recheio de frango desfiado e temperado, empanado e frito",
+        "nivel": "Médio",
+        "total": "115min",
+        "image": "coxinha.jpeg",
+        "ingredientes": [
+            "6 xícaras (chá) de água",
+            "4 tabletes de MAGGI® Caldo Galinha",
+            "1 quilo de peito de frango",
+            "3 batatas médias (cerca de 500 g)",
+            "2 colheres (sopa) de óleo",
+            "1 cebola ralada",
+            "2 tomates sem sementes, em cubos pequenos",
+            "3 colheres (sopa) de azeitonas verdes picadas",
+            "meia xícara (chá) de salsa picada",
+            "100 g de manteiga",
+            "5 xícaras (chá) de farinha de trigo",
+            "4 ovos batidos",
+            "farinha de rosca para empanar"
+        ],
+        "preparo": [
+            "Em uma panela, coloque a água, 3 tabletes de MAGGI Caldo, o peito de frango, as batatas e leve ao fogo, mexendo até o Caldo dissolver. Deixe cozinhar até ficar macio.",
+            "Reserve o caldo do cozimento e esprema as batatas ainda quentes e reserve-as. Desfie o frango.",
+            "Em uma panela, aqueça o óleo e doure levemente a cebola.",
+            "Junte o frango desfiado, os tomates e azeitona.",
+            "Adicione o MAGGI Caldo restante, meia xícara (chá) de água quente e refogue bem, até o Caldo secar. Acrescente a salsa, misture e deixe esfriar.",
+            "Em uma panela grande, coloque o caldo reservado - cerca de 5 xícaras (chá), as batatas espremidas e a manteiga e deixe levantar fervura.",
+            "Junte a farinha de trigo de uma só vez, mexendo vigorosamente, até obter uma massa homogênea.",
+            "Cozinhe por mais alguns minutos, mexendo sempre até a massa estar bem cozida e desgrudar do fundo da panela.",
+            "Despeje sobre uma superfície e sove a massa delicadamente até esfriar.",
+            "Abra pequenas porções da massa na palma da mão e recheie.",
+            "Modele no formato de coxinhas, passe-as pela farinha de rosca, pelos ovos batidos e novamente pela farinha de rosca.",
+            "Frite-as em óleo quente, escorra-as em papel toalha. Sirva."
+        ],
+        "utensilios": [
+            "Panela"
+        ],
+        "price": 29.90
+    },
+    {
+        "id": 4,
+        "title": "Pão de Alho",
+        "description": "Receita de Pão de Alho delicioso feito com pão com pasta de alho temperada com MAGGI Fondor",
+        "nivel": "Fácil",
+        "total": "20min",
+        "image": "pao_de_alho.jpg",
+        "ingredientes": [
+            "4 baguetes médias",
+            "100 g de manteiga",
+            "3 dentes de alho amassados",
+            "meia colher (sopa) de MAGGI® Fondor",
+            "2 colheres (sopa) de cheiro-verde picado",
+            "2 colheres (sopa) de queijo parmesão ralado"
+        ],
+        "preparo": [
+            "Corte as baguetes em fatias, sem separá-las da base do pão e reserve.",
+            "Em um recipiente misture bem a manteiga, o alho, o MAGGI Fondor, o cheiro verde e o queijo parmesão, formando uma pasta cremosa.",
+            "Recheie com esta pasta os espaços entre as fatias de pão e leve-os para assar em forno médio (180°C), preaquecido, até dourar."
+        ],
+        "utensilios": [
+            "Forno",
+            "Tigela"
+        ],
+        "price": 13.80
+    },
+    {
+        "id": 5,
+        "title": "Espetinho Misto de Carne e Frango",
+        "description": "Receita de Espetinho Misto de Carne e Frango saboroso feito com carne, frango, cebola roxa e pimentão temperado com MAGGI Fondor",
+        "nivel": "Fácil",
+        "total": "30 min",
+        "image": "espetinho-misto.jpg",
+        "ingredientes": [
+            "300 g de alcatra em cubos",
+            "300 g de frango em cubos",
+            "1 cebola roxa em cubos",
+            "1 pimentão verde em cubos",
+            "1 colher (sopa) de MAGGI® Fondor"
+        ],
+        "preparo": [
+            "Em um recipiente, misture todos os ingredientes.",
+            "Em palitos para churrasco, espete os cubos de carne, intercalando com o frango, a cebola e o pimentão verde. Reserve.",
+            "Em uma frigideira aquecida, untada com azeite, coloque os espetinhos e deixe dourar por todos os lados (cerca de 10 minutos)."
+        ],
+        "utensilios": [
+            "Tigela",
+            "Frigideira"
+        ],
+        "price": 15.50
+    },
+    {
+        "id": 6,
+        "title": "Empada de Palmito",
+        "description": "Receita de Empada de Palmito feita com deliciosa massa salgada recheada com palmito e MAGGI Fondor",
+        "nivel": "Fácil",
+        "total": "70 min",
+        "image": "empadinha-de-palmito.jpg",
+        "ingredientes": [
+            "1 colher (sopa) de óleo",
+            "1 vidro de palmito picado",
+            "1 colher (sopa) de extrato de tomate",
+            "1 colher (sopa) de MAGGI® Fondor",
+            "3 colheres (sopa) de farinha de trigo",
+            "1 colher (sopa) de salsa picada",
+            "1 lata de ervilha em conserva",
+            "4 xícaras (chá) de farinha de trigo",
+            "200 g de manteiga",
+            "2 gemas",
+            "1 colher (chá) de sal"
+        ],
+        "preparo": [
+            "Em uma panela, aqueça o óleo e refogue o palmito.",
+            "Junte o extrato de tomate e o MAGGI Fondor.",
+            "Acrescente a farinha de trigo dissolvida em meia xícara (chá) de água e cozinhe até formar um creme.",
+            "Junte a salsa picada, a ervilha, misture bem e espere esfriar. Reserve.",
+            "Em um recipiente, misture a farinha, a manteiga, as gemas e o sal.",
+            "Adicione aos poucos 1 xícara (chá) de água gelada, e misture até obter uma massa homogênea. Abra a massa com rolo sobre uma superfície polvilhada com farinha de trigo e forre 30 forminhas de empada.",
+            "Coloque um pouco do Recheio em cada forminha e cubra com a massa restante.",
+            "Pincele com gema e leve para assar em forno médio (180ºC), preaquecido, por cerca de 25 minutos ou até que doure levemente. Sirva."
+        ],
+        "utensilios": [
+            "Tigela",
+            "Ramequin",
+            "Panela"
+        ],
+        "price": 12.80
+    },
+    {
+        "id": 7,
+        "title": "Torresminho",
+        "description": "Receita de Torresminho (Torresmo) delicioso feito com MAGGI Toque de Limão, barriga de porco e óleo de soja",
+        "nivel": "Fácil",
+        "total": "40 min",
+        "image": "torresminho.jpg",
+        "ingredientes": [
+            "1 quilo de barriga de porco para torresmo",
+            "2 colheres (sopa) de MAGGI® Toque de Limão",
+            "meia xícara (chá) de óleo de soja"
+        ],
+        "preparo": [
+            "Comece limpando a barriga de porco e cortando-a em cubinhos ou tirinhas. Tempere-as em um recipiente com o MAGGI Toque de Limão.",
+            "Em seguida, em uma panela com tampa, adicione o óleo e leve ao fogo médio, deixando aquecer um pouco. Adicione o torresmo no óleo, tampe a panela e deixe em fogo baixo até que o torremos comecem a estourar (cerca de 20 minutos). Chacoalhe a panela ao longo desse tempo para que o torresmo não grude no fundo e laterais. Após esse tempo, abra a panela e transfira o torresmo para uma peneira de alumínio ou papel toalha e deixe secar. Sirva ainda quente."
+        ],
+        "utensilios": [
+            "Tigela",
+            "Peneira",
+            "Colher",
+            "Molde de Baviera",
+            "Forno"
+        ],
+        "price": 35.80
+    },
+    {
+        "id": 8,
+        "title": "Mandioca Frita",
+        "description": "Receita de Mandioca Frita deliciosa e crocante feita com mandioca, sal e MAGGI Fondor",
+        "nivel": "Fácil",
+        "total": "30 min",
+        "image": "mandioca.jpg",
+        "ingredientes": [
+            "1 kg de mandioca descascada, em pedaços médios",
+            "1 colher (chá) de sal",
+            "1 pitada de MAGGI® Fondor"
+        ],
+        "preparo": [
+            "Em uma panela coloque a mandioca, o sal e cubra com água. Cozinhe em fogo alto, após ferver cozinhe por 10 minutos ou até estar macia.",
+            "Escorra a água e deixe esfriar.",
+            "Em uma panela, aqueça óleo e frite os pedaços de mandioca. Quando estiver dourado, coloque-as sobre papel toalha para tirar o excesso de gordura e reserve-os em local aquecido."
+        ],
+        "utensilios": [
+            "Panela"
+        ],
+        "price": 45.80
+    },
+    {
+        "id": 9,
+        "title": "Bolinho de Bacalhau",
+        "description": "Receita de Bolinho de Bacalhau saboroso feito com MAGGI Fondor",
+        "nivel": "Fácil",
+        "total": "30 min",
+        "image": "bolinho-de-bacalhau.jpg",
+        "ingredientes": [
+            "150 g de bacalhau dessalgado e desfiado",
+            "1 batata grande cozida e amassada",
+            "1 gema",
+            "1 colher (chá) de MAGGI® Fondor",
+            "2 colheres (sopa) de salsa picada",
+            "meia xícara (chá) de farinha de trigo",
+            "4 colheres (sopa) de Requeijão NESTLÉ®",
+            "1 ovo",
+            "1 pitada de sal",
+            "meia xícara (chá) de farinha de rosca"
+        ],
+        "preparo": [
+            "Em um recipiente, misture bem todos os ingredientes.",
+            "Modele os bolinhos com as mãos, passe pela farinha de rosca, pelo ovo batido e novamente pela farinha de rosca.",
+            "Frite os bolinhos em óleo quente e escorra-os em toalha de papel. Sirva"
+        ],
+        "utensilios": [
+            "Panela"
+        ],
+        "price": 30.00
+    },
+    {
+        "id": 10,
+        "title": "Bolinho de Feijoada",
+        "description": "Receita de Bolinho de Feijoada delicioso feito com feijão preto, recheado com couve e temperado com MAGGI Caldo de Bacon",
+        "nivel": "Fácil",
+        "total": "55 min",
+        "image": "bolinho-de-feijoada.jpg",
+        "ingredientes": [
+            "4 xícaras (chá) de feijão preto cozido (caldo e grãos)",
+            "2 tabletes de MAGGI® Caldo Bacon",
+            "1 colher (sopa) de óleo",
+            "2 dentes de alho amassados",
+            "1 cebola",
+            "meia xícara (chá) de farinha de mandioca crua",
+            "2 colheres (sopa) de salsa picada",
+            "meia colher (sopa) de óleo",
+            "1 dente de alho",
+            "meio maço de couve picada",
+            "1 pitada de sal",
+            "1 xícara (chá) de farinha de trigo",
+            "2 ovos batidos",
+            "1 xícara (chá) de farinha de rosca",
+            "meia xícara (chá) de óleo"
+        ],
+        "preparo": [
+            "Em um liquidificador, bata o feijão preto com o MAGGI Caldo esfarelado e reserve.",
+            "Em uma panela, aqueça o óleo e doure o alho e a cebola.",
+            "Junte o feijão reservado e acrescente, aos poucos, a farinha de mandioca, mexendo sempre para não criar grumos até formar uma massa homogênea.",
+            "Acrescente a salsa e deixe esfriar. Reserve.",
+            "Em uma frigideira, aqueça o óleo e doure o alho.",
+            "Acrescente a couve, o sal e deixe refogar por cerca de 5 minutos. Reserve.",
+            "Com uma porção da massa, modele os bolinhos em formato redondo.",
+            "Faça uma cova no centro e recheie cada um deles com a couve refogada.",
+            "Feche-os e empane-os, passando cada um deles na farinha de trigo, no ovo e na farinha de rosca.",
+            "Em uma panela, aqueça o óleo e frite os bolinhos até ficarem dourados.",
+            "Coloque-os em papel toalha e sirva."
+        ],
+        "utensilios": [
+            "Liquidificador",
+            "Panela",
+            "Frigideira"
+        ],
+        "price": 69.90
+    },
+    {
+        "id": 11,
+        "title": "Chipa",
+        "description": "Receita de Chipa saborosa feita com polvilho azedo, queijo meia cura, manteiga e MAGGI Fondor",
+        "nivel": "Fácil",
+        "total": "45 min",
+        "image": "chipa.jpg",
+        "ingredientes": [
+            "400 g de queijo meia cura ralado",
+            "4 xícaras (chá) de polvilho azedo",
+            "meia xícara (chá) de manteiga",
+            "5 ovos ligeiramente batidos",
+            "meia colher (sopa) de fermento em pó",
+            "1 colher (sopa) de MAGGI® Fondor"
+        ],
+        "preparo": [
+            "Em um recipiente misture todos os ingredientes e sove bem até obter uma massa que solte das mãos.",
+            "Com as mãos modele as chipas em formato meia-lua, coloque-as em uma assadeira (sem untar), deixando espaço entre elas, e leve para assar em forno médio-alto (200°C), preaquecido, por cerca de 30 minutos, ou até dourarem levemente. Sirva as chipas quentes ou mornas."
+        ],
+        "utensilios": [
+            "Forno",
+            "Refratário"
+        ],
+        "price": 29.90
+    },
+    {
+        "id": 12,
+        "title": "Farofa de Castanhas-do-pará e Jambu",
+        "description": "Receita de Farofa de Castanhas-do-pará e Jambu deliciosa feita com castanhas-do-pará, bacon, jambu temperada com MAGGI Fondor.",
+        "nivel": "Fácil",
+        "total": "30 min",
+        "image": "farofa.jpg",
+        "ingredientes": [
+            "100 g de bacon picado",
+            "2 colheres (sopa) de manteiga",
+            "1 cebola ralada",
+            "4 folhas de jambu picado",
+            "1 colher (sopa) de MAGGI® Fondor",
+            "meia xícara (chá) de castanha-do-pará picadas",
+            "1 e meia xícara (chá) de farinha de mandioca crua",
+            "1 colher (sopa) de coentro picado"
+        ],
+        "preparo": [
+            " Em uma panela frite o bacon em sua própria gordura, junte a manteiga, a cebola, o jambu e refogue bem. Junte o MAGGI Fondor, a castanha e frite bem. Por último, misture a farinha e deixe ficar bem quente, mexendo de vez em quando. Sirva a seguir, polvilhado com o coentro."
+        ],
+        "utensilios": [
+            "Panela"
+        ],
+        "price": 55.90
+    }
+]

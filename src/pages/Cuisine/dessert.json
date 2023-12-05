@@ -1,0 +1,398 @@
+[
+    {
+        "id": 1,
+        "title": "Bolo de cenoura de liquidificador",
+        "description": "Receita de Bolo de cenoura de liquidificador. Esse bolo de cenoura de liquidificador fica superfofinho e vai conquistar todo mundo aí na sua casa!",
+        "nivel": "Fácil",
+        "total": "60 min",
+        "image": "guacamole.jpg",
+        "ingredientes": [
+            "3 cenouras médias (cerca de 360 gramas) descascadas e cortadas em rodelas",
+            "4 ovos",
+            "1 xícara de chá de óleo de milho",
+            "1 e 1/2 xícara de chá de açúcar",
+            "2 xícaras de chá de farinha de trigo",
+            "1 colher de sopa de fermento químico em pó (fermento para bolo)",
+            "1 pitada de sal",
+            "Manteiga e farinha de trigo para untar",
+            "1 caixa de leite condensado",
+            "1 colher de sopa de manteiga sem sal",
+            "4 colheres de sopa de chocolate em pó (ou 7 colheres de sopa de achocolatado)",
+            "100 gramas de creme de leite"
+        ],
+        "preparo": [
+            "Reúna todos os ingredientes da massa do seu bolo de canoura de liquidificador",
+            "Em um recipiente, misture a farinha (peneirada), o sal e fermento. Reserve",
+            "No liquidificador, coloque as cenouras, o óleo, os ovos e o açúcar. Bata por cerca de 5 minutos e despeje a mistura em um recipiente grande",
+            "Gradualmente, vá adicionando a mistura de ingredientes secos e, com o auxílio de um fouet, vá misturando até tudo incorporar",
+            "Assim que ficar homogêneo, transfira para uma forma, untada e enfarinha, e leve ao forno preaquecido a 180ºC por cerca de 45 a 50 minutos",
+            "Reúna todos os ingredientes da cobertura",
+            "Em uma panela, coloque todos os ingredientes (menos o creme de leite) e misture bem",
+            "Leve ao fogo médio e mexa sem parar até atingir o ponto de brigadeiro (desgrudar do fundo da panela). Depois é só desligar o fogo, juntar o creme de leite e misturar até incorporar",
+            "Assim que o bolo mornar, desenforme e despeje a cobertura por cima",
+            "Agora é só decorar (se quiser) e servir. Bom apetite!"
+        ],
+        "utensilios": [
+            "Panela",
+            "Forno"
+        ],
+        "price": 30.00
+    },
+    {
+        "id": 2,
+        "title": "Cupcake",
+        "description": "Receita de Cupcake",
+        "nivel": "Fácil",
+        "total": "90 min",
+        "image": "bolo-de-banana.jpg",
+        "ingredientes": [
+            "3 ovos",
+            "1 e 1/2 xícara de chá de açúcar peneirado",
+            "2 xícaras de chá de farinha de trigo (sem fermento) peneirada",
+            "1 xícara de chá de óleo",
+            "1/2 xícara de chá de leite",
+            "1 colher de sopa de fermento químico em pó (fermento para bolo)",
+            "1 colher de sopa de essência de baunilha",
+            "200 gramas de manteiga em temperatura ambiente",
+            "450 gramas de açúcar de confeiteiro",
+            "3 colheres de sopa de leite frio",
+            "1/2 colher de chá de baunilha"
+        ],
+        "preparo": [
+            "Reúna todos os ingredientes da massa",
+            "Em um recipiente, coloque os ovos, o leite, o óleo, a baunilha e o açúcar. Bata até ficar bem homogêneo",
+            "Adicione a farinha. Delicadamente misture até incorporar",
+            "Finalize com o fermento e misture bem",
+            "Transfira a massa para forminhas de cupacake de papel, preenchendo até faltar um dedo para completar, e leve ao forno preaquecido a 180ºC por cerca de 15 a 20 minutos ou até eles dourarem bem.",
+            "Reúna todos os ingredientes da cobertura",
+            "Em uma batedeira, bata a manteiga até ela ficar esbranquiçada",
+            "Desligue e adicione metade do açúcar de confeiteiro",
+            "Bata em velocidade baixa até o açúcar incorporar",
+            "Junte o restante do açúcar e bata até desaparecer novamente",
+            "Desligue e adicione o leite e a baunilha. Volte a bater em velocidade alta por 5 minutos",
+            "Transfira o creme para uma manga de confeitar e decore os cupcakes com creme",
+            "Agora é só servir. Bom apetite!"
+        ],
+        "utensilios": [
+            "Assadeira",
+            "Forno"
+        ],
+        "price": 31.20
+    },
+    {
+        "id": 3,
+        "title": "Bolo de banana fofinho",
+        "description": "Receita de Bolo de banana fofinho",
+        "nivel": "Fácil",
+        "total": "50 min",
+        "image": "cha-de-gingibre.jpg",
+        "ingredientes": [
+            "3 ovos",
+            "3 colheres de sopa de manteiga (ou margarina)",
+            "2 xícaras de chá de açúcar",
+            "4 bananas maduras amassadas com o garfo",
+            "2 e 1/2 xícaras de chá de farinha de trigo",
+            "1 xícara de chá de leite",
+            "1 pitada de sal",
+            "1 colher de chá de fermento químico em pó (fermento para bolo)",
+            "2 colheres de sopa de açúcar com canela em pó (para polvilhar)",
+            "2 colheres de sopa de canela em pó (para polvilhar)"
+        ],
+        "preparo": [
+            "Reúna todos os ingredientes do bolo de banana fofinho",
+            "Em um recipiente, coloque os ovos, a manteiga, o açúcar e bata com um fouet",
+            "Em seguida, adicione as bananas, a farinha e misture bem",
+            "Depois, acrescente o leite e misture",
+            "Junte o sal, o fermento e misture delicadamente para incorporar",
+            "Despeje a massa em uma forma com furo no meio, untada e enfarinhada. Finalize polvilhando o açúcar com a canela em pó por cima do bolo",
+            "Leve ao forno preaquecido a 180°C por cerca de 40 minutos. Agora é só servir. Bom apetite!"
+        ],
+        "utensilios": [
+            "Forno",
+            "Batedeira"
+        ],
+        "price": 25.00
+    },
+    {
+        "id": 4,
+        "title": "Bolo de fubá cremoso",
+        "description": "Receita de Bolo de fubá cremoso",
+        "nivel": "Fácil",
+        "total": "50 min",
+        "image": "chá-de-alho.jpg",
+        "ingredientes": [
+            "4 ovos",
+            "4 xícaras de chá de leite integral",
+            "3 xícaras de chá de açúcar",
+            "50 gramas de queijo parmesão ralado",
+            "1 pitada de sal",
+            "1 e 1/2 xícara de chá de fubá",
+            "2 colheres de sopa de farinha de trigo",
+            "2 colheres de sopa de margarina",
+            "1 colher de sopa de fermento químico em pó (fermento para bolo)"
+        ],
+        "preparo": [
+            "Reúna todos os ingredientes",
+            "Em um liquidificador, coloque os ovos, o leite e o açúcar. Bata por cerca de 1 minuto, para misturar os ingredientes",
+            "Depois disso, acrescente o queijo, o sal, o fubá, a farinha e a margarina. Bata novamente, até obter uma massa bem homogênea",
+            "Por fim, adicione o fermento e bata na função “pulsar”, para incorporar o fermento somente",
+            "Em seguida, despeje toda a massa em uma forma untada e enfarinhada e leve ao forno preaquecido a 180 ºC por 35 a 40 minutos",
+            "Seu bolo está pronto! Sirva e aproveite."
+        ],
+        "utensilios": [
+            "Panela",
+            "Forno"     
+        ],
+        "price": 49.99
+    },
+    {
+        "id": 5,
+        "title": "Bolo de fubá com goiabada",
+        "description": "Receita de Bolo de fubá com goiabada",
+        "nivel": "Fácil",
+        "total": "50 min",
+        "image": "ovo-no-microondas.jpg",
+        "ingredientes": [
+            "1 xícara de chá de farinha de trigo sem fermento",
+            "1 xícara de chá de fubá",
+            "1/2 colher de sopa de erva-doce",
+            "1 colher de sopa de fermento em pó (fermento para bolo)",
+            "3 ovos",
+            "1 xícara de chá de óleo",
+            "1 xícara de chá de leite",
+            "1 xícara de chá de açúcar",
+            "300 gramas de goiabada cascão cortada em cubos pequenos"
+        ],
+        "preparo": [
+            "Reúna todos os ingredientes",
+            "Em uma tigela, misture bem o fubá, a farinha de trigo, o fermento em pó e a erva-doce. Reserve.",
+            "No liquidificador, coloque os ovos, o óleo, o leite e o açúcar. Bata por cerca de 2 minutos, até tudo ficar bem misturado.",
+            "Junte o líquido do liquidificador com os secos na tigela.",
+            "Com um batedor de arame, misture essa massa até que tudo se incorpore e fique homogêneo.",
+            "Despeje a massa em uma forma untada com manteiga e fubá e espalhe-a.",
+            "Passe os cubinho de goiabada em um pouco de farinha.",
+            "Em seguida, distribua-os pela massa, sem empurrá-los e leve o bolo ao forno preaquecido a 180 °C por cerca de 40 minutos, ou até que fique douradinho.",
+            "Está pronto! Sirva e aproveite este bolo com quem você mais ama."
+        ],
+        "utensilios": [
+            "Liquidificador",
+            "Forno"
+        ],
+        "price": 27.00
+    },
+    {
+        "id": 6,
+        "title": "Bolo de limão",
+        "description": "Receita de Bolo de limão",
+        "nivel": "Fácil",
+        "total": "60 min",
+        "image": "bolo-de-maca-sem-acucar.jpeg",
+        "ingredientes": [
+            "2 ovos (claras e gemas separados)",
+            "1 xícara de chá de leite",
+            "3 colheres de sopa de manteiga",
+            "1 e 1/2 xícara de chá de açúcar",
+            "Suco de 2 limões",
+            "Raspas de 1 limão",
+            "3 e 1/2 xícaras de chá de farinha de trigo",
+            "2 colheres de sopa de fermento químico em pó (fermento para bolos)",
+            "Manteiga para untar",
+            "1 lata de leite condensado (395 gramas)",
+            "Suco de 1/2 limão",
+            "Raspas de 1 limão"
+        ],
+        "preparo": [
+            "No liquidificador, bata as gemas, o leite, a manteiga e o açúcar.",
+            "Despeje esse líquido em um recipiente e acrescente o suco e as raspas de limão. Misture com um fouet",
+            "Aos poucos, vá adicionando a farinha de trigo, mexendo sempre.",
+            "Em outro recipiente, bata as claras em neve.",
+            "Incorpore as claras e o fermento na massa, mexendo delicadamente;.",
+            "Despeje a massa em uma forma untada com manteiga e leve ao forno preaquecido a 180 ºC por 40 minutos.",
+            "Em uma panela em fogo baixo, aqueça o leite condensado.",
+            "Adicione o suco de limão e misture até ficar um creme consistente.",
+            "Assim que o bolo estiver morno, desenforme e despeje a cobertura.",
+            "Decore com raspas de limão e está pronto! Sirva e aproveite."
+        ],
+        "utensilios": [
+            "Forno"
+        ],
+        "price": 25.55
+    },
+    {
+        "id": 7,
+        "title": "Bolo de chocolate fácil e molhadinho",
+        "description": "Receita de Bolo de chocolate fácil e molhadinho",
+        "nivel": "Fácil",
+        "total": "60 min",
+        "image": "bolo-de-aveia.webp",
+        "ingredientes": [
+            "2 ovos",
+            "1 xícara de chá de açúcar",
+            "1 xícara de chá de chocolate em pó (ou achocolatado)",
+            "2 xícaras de chá de farinha de trigo",
+            "1 xícara de chá de óleo",
+            "1 colher de sopa de fermento químico em pó (fermento para bolo)",
+            "1 caixinha ou lata de leite condensado",
+            "1 colher de sopa de margarina",
+            "3 colheres de sopa de chocolate em pó (ou achocolatado)",
+            "200 gramas de granulado (opcional)"
+        ],
+        "preparo": [
+            "Reúna todos os ingredientes.",
+            "Em uma tigela grande, coloque os ovos, o açúcar e o chocolate em pó. Misture bem.",
+            "Adicione o trigo e a água e o óleo fervente e mexa.",
+            "Coloque o fermento em pó e incorpore.",
+            "Despeje a massa em uma forma untada e leve para assar em forno preaquecido a 180 ºC até você espetar um palito no meio da massa e ele sair seco.",
+            "Coloque os ingredientes da cobertura (menos o granulado) em uma panela em fogo baixo.",
+            "Misture bem até chegar no ponto de cobertura.",
+            "Deixe amornar e despeje em cima do bolo.",
+            "Salpique o granulado para finalizar e sirva. Bom apetite!"
+        ],
+        "utensilios": [
+            "Forno"
+        ],
+        "price": 27.20
+    },
+    {
+        "id": 8,
+        "title": "Cuca da vovó",
+        "description": "Receita de Cuca da vovó",
+        "nivel": "Fácil",
+        "total": "50 min",
+        "image": "bolo-de-caneca.jpg",
+        "ingredientes": [
+            "4 xícaras de chá de farinha de trigo",
+            "3 xícaras de chá de açúcar",
+            "4 ovos",
+            "2 colheres de sopa de margarina",
+            "250 ml leite",
+            "1 colher de sopa de fermento químico em pó (fermento para bolo)",
+            "1 xícara de chá de farinha de trigo",
+            "1 xícara de chá de açúcar",
+            "3 colheres de sopa de margarina"
+        ],
+        "preparo": [
+            "Reúna todos os ingredientes.",
+            "Em uma batedeira, misture os ovos e o açúcar por cerca de 5 minutos.",
+            "Acrescente a margarina, o leite e a farinha. Bata por mais 5 minutos.",
+            "Por fim, acrescente o fermento e mexa delicadamente. Transfira a massa para uma forma untada e reserve.",
+            "Para a farofa, com as mãos, misture a farinha, o açúcar e a margarina até formar uma farofa.",
+            "Coloque a mistura sobre a massa crua. Leve ao forno preaquecido a 180 °C por cerca de 30 a 40 minutos.",
+            "Agora é só servir. Bom apetite!"
+        ],
+        "utensilios": [
+            "Panela",
+            "Forno"
+        ],
+        "price": 25.00
+    },
+    {
+        "id": 9,
+        "title": "Brigadeiro de leite Ninho recheado com morango",
+        "description": "Receita de Brigadeiro de leite Ninho recheado com morango",
+        "nivel": "Fácil",
+        "total": "60 min",
+        "image": "cuzcuz-marroquino.jpg",
+        "ingredientes": [
+            "1 lata de leite condensado (395 gramas)",
+            "4 colheres de sopa de leite Ninho",
+            "2 colheres de sopa de manteiga (ou margarina)",
+            "1 caixinha de morango (250 gramas)"
+        ],
+        "preparo": [
+            "Reúna os ingredientes do brigadeiro de leite Ninho recheado com morango.",
+            "Em uma panela, adicione o leite condensado, o leite Ninho e a manteiga. Mexa bem até ficar homogêneo.",
+            "Quando chegar ao ponto de brigadeiro (começa a desgrudar do fundo da panela), transfira para uma travessa e leve para a geladeira por cerca de 30-40 minutos.",
+            "Unte as mãos com um pouco de manteiga e abra uma quantidade do brigadeiro branco nas mãos.",
+            "Coloque um morango no meio.",
+            "E, depois, feche-o modelando a massinha em volta.",
+            "Passe no leite Ninho e continue o processo até o brigadeiro acabar.",
+            "Deixe descansar na geladeira por mais 30 minutos e está pronto. Bom apetite!"
+        ],
+        "utensilios": [
+            "Frigideira",
+            "Forno"
+        ],
+        "price": 30.50
+    },
+    {
+        "id": 10,
+        "title": "Brigadeiro de panela",
+        "description": "Receita de Brigadeiro de panela",
+        "nivel": "Fácil",
+        "total": "20 min",
+        "image": "pimenta-em-conserva.jpg",
+        "ingredientes": [
+            "1 lata de leite condensado (395 gramas)",
+            "4 colheres de sopa de chocolate em pó (pedaços de chocolate ou achocolatado)",
+            "1 colher de sopa de manteiga (ou margarina)"
+        ],
+        "preparo": [
+            "Reúna todos os ingredientes.",
+            "Em uma panela, coloque todos os ingredientes e misture bem.",
+            "Leve ao fogo baixo e mexa sem parar.",
+            "Quando começar a soltar do fundo da panela, desligue o fogo.",
+            "Transfira para um recipiente, deixe amornar e sirva. Bom apetite!"
+        ],
+        "utensilios": [
+            "Panela"
+        ],
+        "price": 19.99
+    },
+    {
+        "id": 11,
+        "title": "Brigadeiro de paçoca fácil",
+        "description": "Receita de Brigadeiro de paçoca fácil",
+        "nivel": "Fácil",
+        "total": "25 min",
+        "image": "pave-de-pacoca.jpg",
+        "ingredientes": [
+            "1 lata de leite condensado",
+            "1 colher de sopa de manteiga",
+            "10 paçocas"
+        ],
+        "preparo": [
+           "Reúna todos os ingredientes.",
+           "Coloque o leite condensado, a manteiga e 5 paçocas em uma panela; misture, leve-a ao fogo baixo e mexa sem parar até que o brigadeiro desgrude do fundo da panela.",
+           "Espere o brigadeiro esfriar, e faça uma farofinha com as outras paçocas.",
+           "Molde bolinhas com o brigadeiro e passe-as na farofa de paçoca.",
+           "Agora é só servir. Bom apetite!"
+        ],
+        "utensilios": [
+            "Frigideira"
+        ],
+        "price": 25.00
+    },
+    {
+        "id": 12,
+        "title": "Espetinho de frutas",
+        "description": "Receita de Espetinho de frutas",
+        "nivel": "Fácil",
+        "total": "30 min",
+        "image": "brownie-de-chocolate-com-aveia.jpg",
+        "ingredientes": [
+            "50 gramas de chocolate ao leite",
+            "500 gramas de chocolate meio amargo",
+            "1 maçã lavada e sem casca",
+            "Gotas de 1 limão",
+            "1/2 abacaxi cortado em cubos grandes",
+            "10 uvas tipo do itália lavadas",
+            "10 morangos lavados"
+        ],
+        "preparo": [
+            "Reúna todos os ingredientes.",
+            "Corte a maçã em cubinhos e reserve com as gotas de limão, para não escurecerem.",
+            "Monte os espetinhos, colocando um pedaço de cada fruta em um palito de madeira para churrasco.",
+            "Cubra-os com papel alumínio para evitar que oxidem e mantenha-os sob refrigeração.",
+            "Derreta o chocolate meio amargo em banho-maria ou no micro-ondas.",
+            "Passe os espetos nessa cobertura e deixe-os sobre uma grelha para secar.",
+            "Derreta o chocolate ao leite em banho-maria ou no micro-ondas.",
+            "Coloque essa calda em um saco para confeitar com bico bem fininho e decore os espetos, quando estiverem secos, fazendo riscos sobre eles.",
+            "Deixe secar sobre a grelha e sirva em seguida. Bom apetite!"
+        ],
+        "utensilios": [
+            "Panela"
+        ],
+        "price": 26.80
+    }
+]
