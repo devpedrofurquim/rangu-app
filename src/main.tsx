@@ -12,7 +12,7 @@ import { AnimatePresence } from 'framer-motion';
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/rangu-app",
     element: <Home/>,
     errorElement: <Error/>
   },
