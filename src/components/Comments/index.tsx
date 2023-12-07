@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { FaStar } from "react-icons/fa";
+// @ts-ignore
 import { Splide, SplideSlide } from '@splidejs/react-splide';
 
 

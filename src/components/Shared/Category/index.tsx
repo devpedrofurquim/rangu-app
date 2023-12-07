@@ -2,6 +2,7 @@ import { BiSolidDrink, BiSolidPizza  } from "react-icons/bi";
 import { MdFastfood } from "react-icons/md";
 import { LuDessert } from "react-icons/lu";
 import { Link } from "react-router-dom";
+// @ts-ignore
 import { Splide, SplideSlide } from '@splidejs/react-splide';
 
 

@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+// @ts-ignore
 import { Splide, SplideSlide } from '@splidejs/react-splide';
 import { MdRestaurant } from "react-icons/md";
 import { GrRestaurant } from "react-icons/gr";

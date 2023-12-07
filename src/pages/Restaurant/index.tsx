@@ -1,4 +1,3 @@
-import { useEffect, useState } from "react";
 import Footer from "../../components/Shared/Footer";
 import Navbar from "../../components/Shared/Navbar";
 import Category from "../../components/Shared/Category";

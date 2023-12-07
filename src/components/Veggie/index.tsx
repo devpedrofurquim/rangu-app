@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import ReceitasVeganas from './receitas_veggie.json';
+// @ts-ignore
 import { Splide, SplideSlide } from '@splidejs/react-splide';
 import { MdRestaurant } from "react-icons/md";
 import { GrRestaurant } from "react-icons/gr";
